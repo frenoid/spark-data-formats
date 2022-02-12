@@ -2,7 +2,8 @@
 
 An introduction of data formats used in Spark and how to read from and write to them.
 
-The workshop was given as part of the [Big Data Engineering for Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/big-data-engineering-for--analytics/data-science) module which fulfills a requirement for the Engineering Big Data certificate issued by [NUS-ISS](https://www.iss.nus.edu.sg/)
+This is **Workshop 12 Data Formats**  is  part of a workshop series given as part of 
+the [Big Data Engineering for Analytics](https://www.iss.nus.edu.sg/executive-education/course/detail/big-data-engineering-for--analytics/data-science) module which fulfills a requirement for the Engineering Big Data certificate issued by [NUS-ISS](https://www.iss.nus.edu.sg/)
 
 I have translated the original Python code to Scala
 
