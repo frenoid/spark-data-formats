@@ -1,9 +1,8 @@
 package com.normanlimxk.spark.dataformats
 
-import org.apache.spark.sql.types
 import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 
-object WriteCSV extends SparkSessionWrapper {
+object ReadCSV extends SparkSessionWrapper {
   def main(args: Array[String]): Unit = {
 
     // Read CSF file peope.csv
